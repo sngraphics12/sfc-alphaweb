@@ -11,7 +11,7 @@ import Error from './Pages/Error';
 import Feedback from './Pages/Feedback';
 import EventCatalog from './Pages/EventCatalog';
 import EventDetails from './Pages/EventDetails';
-// import Sitemap from './Pages/Sitemap';
+import Sitemap from './Pages/Sitemap';
 import Galary from './Pages/galary';
 import Welcome from './Pages/Welcome'; 
 
@@ -26,7 +26,7 @@ export default function App() {
     { path: '/event', element: <EventDetails /> }, 
     { path: '/contact', element: <Contact /> },
     { path: '/galary', element: <Galary /> }, 
-    // { path: '/sitemap', element: <Sitemap /> },
+    { path: '/sitemap', element: <Sitemap /> },
     { path: '*', element: <Error /> }
   ]);
 
