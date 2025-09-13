@@ -5,7 +5,7 @@ import './sitemap.css';
 import NavbarComponents from '../Components/NavbarComponents';
 import FooterComponents from '../Components/FooterComponents';
 
-export default function Sitemap() {
+export default function SiteMap() {
   return (
     <>
       <NavbarComponents />
