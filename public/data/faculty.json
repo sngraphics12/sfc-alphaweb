@@ -1,0 +1,59 @@
+
+   [
+    {
+      "id": 1,
+      "name": "Dr. Ayesha Khan",
+      "role": "Professor",
+      "department": "Computer Science",
+      "phone": "0300 1234567",
+      "email": "ayesha.khan@college.edu",
+      "image": "/hasan1.jpg"
+    },
+    {
+      "id": 2, 
+      "name": "Bilal Ahmed",
+      "role": "Assistant Professor",
+      "department": "Electrical Engineering",
+      "phone": "0301 2345678",
+      "email": "bilal.ahmed@college.edu",
+      "image": "/hasan2.jpg"
+    },
+    {
+      "id": 3, 
+      "name": "Asghar ali",
+      "role": "Senior Professor",
+      "department": "Mechanical Engineering",
+      "phone": "0301 2322410",
+      "email": "Asgharsheikh3@college.edu",
+      "image": "/hasan3.jpg"
+    },
+    {
+      "id": 4,  
+      "name": "Sara Malik",
+      "role": "Student Coordinator",
+      "department": "Event Management",
+      "phone": "0303 3456789",
+      "email": "sara.malik@student.college.edu",
+      "image": "/hasan4.jpg"
+    },
+    {
+      "id": 5,  
+      "name": "Ali Raza",
+      "role": "Student Coordinator",
+      "department": "Sports Committee",
+      "phone": "0303 4567890",
+      "email": "ali.raza@student.college.edu",
+      "image": "/hasan5.jpg"
+    },
+       {
+      "id": 6,  
+      "name": "Hassan Shah",
+      "role": "Student Coordinator",
+      "department": "Program Coordinator",
+      "phone": "0306 4598710",
+      "email": "Hassanshah@stu.col.edu",
+      "image": "/hasan6.jpg"
+    }
+   
+  
+  ]

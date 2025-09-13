@@ -1,0 +1,44 @@
+ [
+  {
+    "title": "Technical Society",
+    "description": "Handles coding, robotics, and tech fests.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Technical-Society.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  },
+  {
+    "title": "Cultural Club",
+    "description": "Organizes cultural nights, dances, and arts events.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Cultural-Club.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  },
+  {
+    "title": "Sports Council",
+    "description": "Leads athletic events and inter-college tournaments.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Sports-Council.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  },
+  {
+    "title": "Alumni Committee",
+    "description": "Connects past students with current initiatives.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Alumni-Committee.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  },
+ {
+    "title": "Debate & Oratory Society",
+    "description": "Handles coding, robotics, and tech fests.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Debate.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  },
+  {
+    "title": "Social Welfare Club",
+    "description": "Organizes cultural nights, dances, and arts events.",
+    "date":"Fri, 05 Sep 2025",
+    "image": "/assets/images/Social-Welfare.jpg",
+    "organiner":"Team SFC-Alpha-Web"
+  }
+]

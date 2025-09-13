@@ -1,0 +1,22 @@
+ [
+  {
+    "title": "Technical Society",
+    "description": "Handles coding, robotics, and tech fests.",
+    "image": "./assets/images/Business1.jpeg"
+  },
+  {
+    "title": "Cultural Club",
+    "description": "Organizes cultural nights, dances, and arts events.",
+    "image": "./assets/images/business2.jpeg"
+  },
+  {
+    "title": "Sports Council",
+    "description": "Leads athletic events and inter-college tournaments.",
+    "image": "./assets/images/business3.jpeg"
+  },
+  {
+    "title": "Alumni Committee",
+    "description": "Connects past students with current initiatives.",
+    "image": "./assets/images/business 5.jpeg"
+  }
+]

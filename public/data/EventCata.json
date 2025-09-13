@@ -1,0 +1,433 @@
+[
+{
+  "id": 1,
+  "name": " AI Conference",
+  "date": "2025-10-12",
+  "time": "9:00 AM",
+  "venue": "Auditorium A",
+  "description": "A global event on the latest AI advancements.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/internatin ai conference.jpg"
+},
+{
+  "id": 2,
+  "name": "Robotics Workshop",
+  "date": "2025-10-15",
+  "time": "10:00 AM",
+  "venue": "Engineering Lab",
+  "description": "Hands-on workshop to build and program robots.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/robot workshop.jpg"
+},
+{
+  "id": 3,
+  "name": "Tech Symposium 2025",
+  "date": "2025-11-05",
+  "time": "11:00 AM",
+  "venue": "Lecture Hall B",
+  "description": "Industry leaders share insights on new tech.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/emerging technology.jpg"
+},
+{
+  "id": 4,
+  "name": "Data Science Bootcamp",
+  "date": "2025-11-10",
+  "time": "9:00 AM",
+  "venue": "Computer Lab",
+  "description": "Intensive bootcamp on data science basics.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/inventiver.jpg"
+},
+{
+  "id": 5,
+  "name": "Hackathon 2025",
+  "date": "2025-12-01",
+  "time": "8:00 AM",
+  "venue": "Innovation Hub",
+  "description": "24-hour coding marathon with real-world challenges.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/A 24-hour coding marathon where teams create innovative solutions to real-world problems.jpg"
+},
+{
+  "id": 6,
+  "name": "Cybersecurity Seminar",
+  "date": "2025-09-22",
+  "time": "2:00 PM",
+  "venue": "Auditorium C",
+  "description": "Seminar on current threats and cybersecurity trends.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/A seminar discussing current threats and innovations in the field of cybersecurity.jpg"
+},
+{
+  "id": 7,
+  "name": "Research Methodology Workshop",
+  "date": "2025-09-20",
+  "time": "10:00 AM",
+  "venue": "Library Conference Room",
+  "description": "Workshop on research methods and data analysis.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "public/A workshop focused on research methods, data collection, and analysis techniques.jpg"
+},
+{
+  "id": 8,
+  "name": "Blockchain Technology Seminar",
+  "date": "2025-10-05",
+  "time": "1:00 PM",
+  "venue": "Engineering Auditorium",
+  "description": "Seminar on blockchain beyond cryptocurrency.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/blockchain.jpg"
+},
+{
+  "id": 9,
+  "name": "AI Ethics Roundtable",
+  "date": "2025-11-18",
+  "time": "9:30 AM",
+  "venue": "Room 201",
+  "description": "Discussion on ethical issues in AI and ML.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/A discussion on the ethical implications of AI and machine learning technologies.jpg"
+},
+{
+  "id": 10,
+  "name": "Cloud Computing Summit",
+  "date": "2025-12-10",
+  "time": "3:00 PM",
+  "venue": "Main Conference Hall",
+  "description": "Summit on the future of cloud and business impact.",
+  "category": "Academic",
+  "status": "Upcoming",
+  "image": "./public/A summit dedicated to exploring the future of cloud computing and its impact on businesses.jpg"
+},
+
+ 
+  {
+    "id": 11,
+    "name": "Cultural Night 2025",
+    "date": "2025-09-25",
+    "time": "7:00 PM",
+    "venue": "Main Hall",
+    "description": "A celebration of world cultures through performances of music, dance, and theater.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A celebration of world cultures through performances of music, dance, and theater.jpg"
+
+},
+  {
+    "id": 12,
+    "name": "International Food Festival",
+    "date": "2025-10-10",
+    "time": "12:00 PM",
+    "venue": "Campus Courtyard",
+    "description": "A vibrant event where students and faculty share traditional dishes from their home countries.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A vibrant event where students and faculty share traditional dishes from their home countries.jpg"
+
+},
+  {
+    "id": 13,
+    "name": "Traditional Dance Show",
+    "date": "2025-10-15",
+    "time": "6:00 PM",
+    "venue": "Open Air Theatre",
+    "description": "A mesmerizing display of traditional dance from various cultures around the world.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A mesmerizing display of traditional dance from various cultures around the world.jpg"
+
+},
+  {
+    "id": 14,
+    "name": "Music Fest 2025",
+    "date": "2025-11-03",
+    "time": "8:00 PM",
+    "venue": "Auditorium A",
+    "description": "A music festival featuring live performances from student bands and guest artists.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A music festival featuring live performances from student bands and guest artists.jpg"
+
+},
+  {
+    "id": 15,
+    "name": "Global Fashion Show",
+    "date": "2025-11-08",
+    "time": "5:00 PM",
+    "venue": "Main Hall",
+    "description": "A fashion event showcasing clothing and designs inspired by global cultures.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A fashion event showcasing clothing and designs inspired by global cultures..jpg"
+
+},
+  {
+    "id": 16,
+    "name": "Drama Festival",
+    "date": "2025-07-18",
+    "time": "6:00 PM",
+    "venue": "Open Air Theatre",
+    "description": "A series of short plays and performances by the university's drama club.",
+   "category": "Cultural",
+    "status": "Past",
+    "image":"./public/A series of short plays and performances by the university's drama club.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Film Screening: World Cinema",
+    "date": "2025-09-05",
+    "time": "3:00 PM",
+    "venue": "Lecture Hall C",
+    "description": "A screening of critically acclaimed international films, followed by discussions.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A screening of critically acclaimed international films, followed by discussions.jpg"
+
+},
+  {
+    "id": 18,
+    "name": "Cultural Quiz Night",
+    "date": "2025-09-15",
+    "time": "7:00 PM",
+    "venue": "Student Lounge",
+    "description": "A fun-filled quiz on global culture, history, and art.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A fun-filled quiz on global culture, history, and art.jpg"
+
+},
+  {
+    "id": 19,
+    "name": "Ethnic Music Performance",
+    "date": "2025-10-17",
+    "time": "7:00 PM",
+    "venue": "Cultural Center",
+    "description": "A night of ethnic music performances from talented musicians across the world.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/A night of ethnic music performances from talented musicians across the world.jpg"
+
+},
+  {
+    "id": 20,
+    "name": "Art Exhibition 2025",
+    "date": "2025-11-22",
+    "time": "11:00 AM",
+    "venue": "Art Gallery",
+    "description": "An exhibition showcasing artworks created by students and faculty.",
+   "category": "Cultural",
+   "status": "Upcoming",
+    "image": "./public/An exhibition showcasing artworks created by students and faculty.jpg"
+
+},
+
+  {
+  "id": 21,
+    "name": "Annual Sports Meet",
+    "date": "2025-08-30",
+    "time": "9:00 AM",
+    "venue": "Campus Sports Ground",
+    "description": "An annual event where students participate in various sports activities, including athletics and team games.",
+   "category": "Sports",
+    "status": "Past",
+    "image":"./public/An annual event where students participate in various sports activities, including athletics and team games..jpg"
+    
+  },
+  {
+    "id": 22,
+    "name": "Football Tournament",
+    "date": "2025-09-10",
+    "time": "8:00 AM",
+    "venue": "Football Ground",
+    "description": "A competitive football tournt between different departments of the university.",
+   "category": "Sports",
+   "status": "Upcoming",
+    "image": "./public/A competitive football tournt between different departments of the university.jpg"
+
+},
+  {
+    "id": 23,
+    "name": "Inter-College Basketball Match",
+    "date": "2025-10-01",
+    "time": "5:00 PM",
+    "venue": "Basketball Court",
+    "description": "A thrilling basketball match between the top teams of different colleges in the region.",
+   "category": "Sports",
+   "status": "Upcoming",
+    "image": "./public/A thrilling basketball match between the top teams of different colleges in the region.jpg"
+
+},
+  {
+    "id": 24,
+    "name": "Track and Field Championships",
+    "date": "2025-09-20",
+    "time": "7:30 AM",
+    "venue": "Athletic Stadium",
+    "description": "An athletic competition featuring track races, long jumps, and other field events.",
+   "category": "Sports",
+   "status": "Upcoming",
+    "image": "./public/An athletic competition featuring track races, long jumps, and other field events.jpg"
+
+},
+  {
+    "id": 25,
+    "name": "Cricket Cup 2025",
+    "date": "2025-10-10",
+    "time": "9:00 AM",
+    "venue": "Cricket Ground",
+    "description": "An exciting cricket match between various college teams.",
+   "category": "Sports",
+   "status": "Upcoming",
+    "image": "./public/An exciting cricket match between various college teams.jpg"
+
+},
+  {
+    
+    "name": "Swimming Championship",
+    "date": "2025-11-15",
+    "time": "8:00 AM",
+    "venue": "Campus Pool",
+    "description": "A swimming competition where athletes race in various events, from freestyle to butterfly",
+    "category":"Sports",
+    "image":"./public/A swimming competition where athletes race in various events, from freestyle to butterfly.jpg"
+  },
+   {
+    "name": "Tech Innovators Conference 2025",
+    "description": "A premier event for technology professionals to discuss the latest trends in AI, IoT, and blockchain.",
+    "venue": "Silicon Valley Convention Center",
+    "date": "2025-03-15",
+    "time": "09:00 AM",
+    "category": "Technical",
+    "image":"./public/A premier event for technology professionals to discuss the latest trends in AI, IoT, and blockchain.jpg"
+
+  },
+  {
+    "name": "Cybersecurity Summit 2025",
+    "description": "A global summit focused on cybersecurity, data protection, and secure network infrastructures.",
+    "venue": "New York City Tech Hub",
+    "date": "2025-04-20",
+    "time": "10:00 AM",
+    "category": "Technical",
+    "image":"./public/A global summit focused on cybersecurity, data protection, and secure network infrastructures.jpg"
+  },
+  {
+    "name": "Future of Blockchain 2025",
+    "description": "Explore the future of blockchain technology, from cryptocurrency to decentralized applications.",
+    "venue": "Los Angeles Convention Center",
+    "date": "2025-05-05",
+    "time": "08:30 AM",
+    "category": "Technical",
+    "image":"./public/Explore the future of blockchain technology, from cryptocurrency to decentralized applications.jpg"
+  },
+  {
+    "name": "Quantum Computing Symposium 2025",
+    "description": "A deep dive into the emerging field of quantum computing and its potential applications in various industries.",
+    "venue": "Boston Tech Arena",
+    "date": "2025-06-10",
+    "time": "11:00 AM",
+    "category": "Technical",
+    "image":"./public/A deep dive into the emerging field of quantum computing and its potential applications in various industries.jpg"
+  },
+  {
+    "name": "IoT World Expo 2025",
+    "description": "The largest Internet of Things event, featuring innovations and practical solutions across industries.",
+    "venue": "Chicago International Conference Center",
+    "date": "2025-07-15",
+    "time": "09:30 AM",
+    "category": "Technical",
+    "image":"./public/The largest Internet of Things event, featuring innovations and practical solutions across industries.jpg"
+  },
+  {
+    "name": "Cloud Computing Summit 2025",
+    "description": "A global event focusing on the latest trends in cloud technologies, from hybrid clouds to serverless computing.",
+    "venue": "Dallas Tech Center",
+    "date": "2025-08-22",
+    "time": "10:30 AM",
+    "category": "Technical",
+    "image":"./public/A global event focusing on the latest trends in cloud technologies, from hybrid clouds to serverless computing.jpg"
+  },
+  {
+    "name": "Virtual Reality & AR Expo 2025",
+    "description": "An exhibition and conference exploring the cutting-edge advancements in virtual reality and augmented reality technologies.",
+    "venue": "San Francisco Expo Center",
+    "date": "2025-09-12",
+    "time": "12:00 PM",
+    "category": "Technical",
+    "image":"./public/An exhibition and conference exploring the cutting-edge advancements in virtual reality and augmented reality technologies.jpg"
+  },
+  {
+    "name": "Annual Marketing Strategy Workshop",
+    "description": "A workshop designed to strategize and plan the marketing activities for the upcoming year.",
+    "venue": "Marketing Department Headquarters",
+    "date": "2025-02-10",
+    "time": "10:00 AM",
+    "category": "Department",
+    "image":"./public/A workshop designed to strategize and plan the marketing activities for the upcoming year.jpg"
+  },
+  {
+    "name": "HR Team Building Retreat",
+    "description": "A retreat aimed at enhancing team collaboration and improving communication skills within the HR department.",
+    "venue": "Mountain View Resort",
+    "date": "2025-03-05",
+    "time": "09:00 AM",
+    "category": "Department",
+    "image":"./public/A retreat aimed at enhancing team collaboration and improving communication skills within the HR department.jpg"
+  },
+  {
+    "name": "Engineering Innovation Conference",
+    "description": "A conference where engineers from all over the company come together to present new projects and innovative ideas.",
+    "venue": "Engineering Department Auditorium",
+    "date": "2025-04-15",
+    "time": "01:00 PM",
+    "category": "Department",
+    "image":"./public/A conference where engineers from all over the company come together to present new projects and innovative ideas.jpg"
+  },
+  {
+    "name": "Finance and Budgeting Seminar",
+    "description": "A seminar focusing on financial planning, budgeting best practices, and departmental fund allocation for the year.",
+    "venue": "Finance Department Conference Room",
+    "date": "2025-05-22",
+    "time": "02:00 PM",
+    "category": "Department",
+    "image":"./public/A seminar focusing on financial planning, budgeting best practices, and departmental fund allocation for the year.jpg"
+  },
+  {
+    "name": "Customer Support Excellence Training",
+    "description": "A training session aimed at improving customer support skills, focusing on communication, problem-solving, and empathy.",
+    "venue": "Customer Support Department Office",
+    "date": "2025-06-12",
+    "time": "10:30 AM",
+    "category": "Department",
+    "image":"./public/A training session aimed at improving customer support skills, focusing on communication, problem-solving, and empathy.jpg"
+  },
+  {
+    "name": "Sales Performance Review Meeting",
+    "description": "A departmental meeting to review the sales team's performance, identify areas for improvement, and set goals for the next quarter.",
+    "venue": "Sales Department Boardroom",
+    "date": "2025-07-08",
+    "time": "09:30 AM",
+    "category": "Department",
+    "image":"./public/A departmental meeting to review the sales team's performance, identify areas for improvement, and set goals for the next quarter.jpg"
+  },
+  {
+    "name": "IT Systems Upgrade Presentation",
+    "description": "A presentation to showcase the latest updates and upgrades to the company’s IT systems and infrastructure.",
+    "venue": "IT Department Headquarters",
+    "date": "2025-08-20",
+    "time": "03:00 PM",
+    "category": "Department",
+    "image":"./public/A presentation to showcase the latest updates and upgrades to the company’s IT systems and infrastructure.jpg"
+  }
+
+
+]

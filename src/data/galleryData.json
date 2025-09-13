@@ -1,0 +1,124 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "business5",
+      "title": "Business Conference 2024",
+      "category": "orientation",
+      "year": "2024",
+      "description": "Annual business conference and networking event"
+    },
+    {
+      "id": 2,
+      "src": "business1",
+      "title": "Corporate Workshop 2024",
+      "category": "tech",
+      "year": "2024",
+      "description": "Advanced business technology workshop"
+    },
+    {
+      "id": 3,
+      "src": "business2",
+      "title": "Industry Meet 2024",
+      "category": "lecture",
+      "year": "2024",
+      "description": "Industry leaders sharing insights and experiences"
+    },
+    {
+      "id": 4,
+      "src": "business3",
+      "title": "Tech Summit 2024",
+      "category": "tech",
+      "year": "2024",
+      "description": "Latest technology trends and innovations"
+    },
+    {
+      "id": 5,
+      "src": "business4_2",
+      "title": "Startup Expo 2024",
+      "category": "cultural",
+      "year": "2024",
+      "description": "Showcasing innovative startup ideas and projects"
+    },
+    {
+      "id": 6,
+      "src": "business4",
+      "title": "Career Fair 2024",
+      "category": "orientation",
+      "year": "2024",
+      "description": "Connecting students with top companies"
+    },
+    {
+      "id": 7,
+      "src": "college",
+      "title": "Campus Life 2024",
+      "category": "cultural",
+      "year": "2024",
+      "description": "Beautiful campus and student activities"
+    },
+    {
+      "id": 8,
+      "src": "business5",
+      "title": "Business Conference 2023",
+      "category": "orientation",
+      "year": "2023",
+      "description": "Annual business conference and networking event"
+    },
+    {
+      "id": 9,
+      "src": "business1",
+      "title": "Corporate Workshop 2023",
+      "category": "tech",
+      "year": "2023",
+      "description": "Advanced business technology workshop"
+    },
+    {
+      "id": 10,
+      "src": "business2",
+      "title": "Industry Meet 2023",
+      "category": "lecture",
+      "year": "2023",
+      "description": "Industry leaders sharing insights and experiences"
+    },
+    {
+      "id": 11,
+      "src": "business3",
+      "title": "Tech Summit 2023",
+      "category": "tech",
+      "year": "2023",
+      "description": "Latest technology trends and innovations"
+    },
+    {
+      "id": 12,
+      "src": "business4_2",
+      "title": "Startup Expo 2023",
+      "category": "cultural",
+      "year": "2023",
+      "description": "Showcasing innovative startup ideas and projects"
+    },
+    {
+      "id": 13,
+      "src": "business4",
+      "title": "Career Fair 2023",
+      "category": "orientation",
+      "year": "2023",
+      "description": "Connecting students with top companies"
+    },
+    {
+      "id": 14,
+      "src": "college",
+      "title": "Campus Life 2023",
+      "category": "cultural",
+      "year": "2023",
+      "description": "Beautiful campus and student activities"
+    },
+    {
+      "id": 15,
+      "src": "business5",
+      "title": "Business Conference 2022",
+      "category": "orientation",
+      "year": "2022",
+      "description": "Annual business conference and networking event"
+    }
+  ]
+}

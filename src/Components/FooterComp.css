@@ -1,0 +1,183 @@
+footer {
+  background-color: #111;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px 20px 30px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.footer-top.container {
+  display: flex;
+  gap: 40px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-col.site-info {
+  flex: 0 0 28%;
+  min-width: 220px;
+  padding-right: 20px;
+  border-right: 1px solid #333;
+}
+
+.footsite-icon {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #ccc;
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.footsite-icon span {
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  animation: gradientShift 8s ease infinite;
+}
+
+footer p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+  color: #ccc;
+}
+
+.footer-col.col-2 {
+  flex: 1 1 550px;
+  min-width: 260px;
+}
+
+.footrownewsletter-row {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}
+
+.footshow-info h4,
+.footnewsletter h4,
+.foot-col h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #fb9536;
+}
+
+.footshow-info p {
+  font-size: 14px;
+  color: #bbb;
+  line-height: 1.4;
+}
+
+.footnewsletter form {
+  display: flex;
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.footnewsletter input {
+  flex: 1;
+  padding: 10px 15px;
+  border-radius: 6px;
+  border: none;
+  width: 120px;
+  font-size: 15px;
+  outline: none;
+  transition: box-shadow 0.3s ease;
+  background-color: #222;
+  color: #fff;
+}
+
+.footnewsletter input::placeholder {
+  color: #888;
+}
+
+.footnewsletter input:focus {
+  box-shadow: 0 0 6px #fb9536;
+  background-color: #1a1a1a;
+}
+
+.footnewsletter button {
+  padding: 10px 25px;
+  background-color: #fb9536;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.footnewsletter button:hover {
+  background-color: #e67e22;
+  box-shadow: 0 0 10px #e67e22;
+}
+
+.foot-row.row {
+  display: flex;
+  gap: 35px;
+  flex-wrap: wrap;
+}
+
+.foot-col {
+  min-width: 120px;
+  flex: 1 1 120px;
+}
+
+.foot-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.foot-col ul li {
+  margin-bottom: 8px;
+}
+
+.foot-col ul li a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #ccc;
+  transition: color 0.3s ease;
+}
+
+.foot-col ul li a:hover {
+  color: #fb9536;
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid #333;
+  padding: 15px 0 10px;
+  font-size: 13px;
+  color: #777;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .footer-top.container {
+    flex-direction: column;
+    gap: 25px;
+  }
+  .footer-col.site-info {
+    border-right: none;
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+  .footrownewsletter-row {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .footnewsletter form {
+    max-width: 100%;
+  }
+  .foot-row.row {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
