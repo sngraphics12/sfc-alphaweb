@@ -11,7 +11,7 @@ import Error from './Pages/Error';
 import Feedback from './Pages/Feedback';
 import EventCatalog from './Pages/EventCatalog';
 import EventDetails from './Pages/EventDetails';
-import SiteMap from './Pages/Sitemap.jsx';
+import SiteMap from './Pages/sitemap';
 import Galary from './Pages/galary';
 import Welcome from './Pages/Welcome'; 
 
