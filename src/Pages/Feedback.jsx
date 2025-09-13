@@ -1,7 +1,6 @@
-import './feedback.css'
 import React, { useState } from "react";
 import NavbarComponents from "../Components/NavbarComponents";
-import "./feedback.css";
+import "./Feedback.css";
 import FooterComponents from '../Components/FooterComponents';
 
 export default function Feedback() {
